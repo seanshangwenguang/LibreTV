@@ -21,7 +21,7 @@ const SITE_CONFIG = {
 };
 
 // API站点配置
-{
+const API_SITES = {
     "cache_time": 9200,
     "api_site": {
         "api_1": {
